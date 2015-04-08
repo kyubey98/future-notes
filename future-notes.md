@@ -45,4 +45,3 @@
 * Tungsten
 * Jade Diamond
 * Adamantium
-* Hessite
